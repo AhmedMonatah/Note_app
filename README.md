@@ -1,16 +1,28 @@
-# note_app
+# Note App 📝
 
-A new Flutter project.
+Note App is a simple yet powerful note-taking application built using Flutter and Hive. The app allows users to create, view, search, and manage notes seamlessly with a clean and intuitive interface. Whether you need to jot down quick thoughts or keep track of detailed information, Note App provides a reliable solution with offline storage capabilities.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Create Notes**: Easily create and save notes with a title and content.
+- **Search Notes**: Quickly search through your notes by title or content to find the information you need.
+- **Offline Support**: All notes are stored locally using Hive, allowing you to access your notes without an internet connection.
+- **Custom Note Colors**: Personalize your notes by selecting different colors.
+- **Upload Images**: Attach images to your notes to make them more informative and visually appealing.
+- **Responsive UI**: Enjoy a user-friendly interface that's optimized for both mobile and tablet screens.
+  
+## Screenshots
+# HomePage
 
-A few resources to get you started if this is your first Flutter project:
+![Home](https://github.com/user-attachments/assets/66ca8091-fa7a-4df0-bfa0-f5b4753ce354)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# AddNote
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![AddNote](https://github.com/user-attachments/assets/15a7c054-9861-4570-97de-81fe53da48cb)
+
+
+## Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/note_app.git
